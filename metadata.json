@@ -1,5 +1,5 @@
 {
-  "title": "Secure ASP.NET Web API (OWIN) with JWT - RS256",
+  "title": "Secure ASP.NET Web API with RS256 signed JWT",
   "description": "This sample demonstrates how to secure an ASP.NET Web API (using OWIN) so users can be authorized with a JWT issued by Auth0. This sample uses a token signed with RS256.",
   "seed": "true",
   "languages": [
